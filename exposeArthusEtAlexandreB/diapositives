@@ -1,1 +1,1 @@
-const diapos = 6 ; /**Remplacer ce nombre par le nombre de diapositives**/
+const diapos = 7 ; /**Remplacer ce nombre par le nombre de diapositives**/
